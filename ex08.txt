@@ -1,0 +1,13 @@
+Quy trình mua hàng online 
+Mô tả: Người dùng truy cập hệ thống, chọn sản phẩm, thêm sản phẩm vào giỏ hàng, lựa chọn phương thức thanh toán, hệ thống xác nhận đơn hàng, tiến hành quá trình giao hàng
+
+Yêu cầu chức năng:
+- Đăng ký/ đăng nhập
+- Tìm kiếm sản phẩm
+- Thêm sản phảm vào giỏ hàng
+- Thanh toán
+
+Yêu cầu phi chức năng:
+- Giao diện dễ sử dụng
+- Thời gian phản hồi hệ thống không được quá 5s
+- Bảo mật thông tin cá nhân khách hàng

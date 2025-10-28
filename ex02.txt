@@ -1,0 +1,9 @@
+Hệ thống đặt vé:
+Yêu cầu chức năng:
+- Đăng ký, đăng nhập
+- Đặt vé, chọn chỗ ngồi
+- Thanh toán vé
+Yêu cầu phi chức năng:
+- Bảo mật thông tin khách hàng
+- Xử lý thanh toán nhanh chóng
+- Validate thông tin khách hàng khi đăng ký/ đăng nhập

@@ -1,0 +1,11 @@
+Hệ thống bán lẻ:
+Người dùng cuối: 
+- Khách hàng, nhân viên bán hàng, nhà cung cấp, người quản lý
+Sponsor: 
+- Giám đốc công ty, bộ phận tài chính, chủ dự án
+Chuyên gia nghiệp vụ: 
+- Quản lý cửa hàng, kế toán
+Bộ phận kĩ thuật: 
+- Lập trình viên, tester, quản lý dự án
+Bên thứ ba: 
+- Nhà cung cấp dịch vụ thanh toán, cơ quan thuế, nhà cung cấp

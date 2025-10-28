@@ -1,0 +1,26 @@
+Hệ thống giao hàng nhanh:
+
+1. Khách hàng
+- Vai trò: Người sử dụng dịch vụ gửi và nhận hàng
+- Mối quan tâm: Thời gian giao hàng, độ an toàn, giao diện dễ dùng
+- Mức độ ưu tiên: Critical
+
+2. Tài xế giao hàng
+- Vai trò: Người thực hiện hành động nhận và giao hàng
+- Mối quan tâm: Thông tin người gửi và nhận rõ ràng, hệ thống định vị chính xác
+- Mức độ ưu tiên: Critical
+
+3. Quản lý hệ thống
+- Vai trò: Quản lý và giám sát quá trình giao nhận hàng
+- Mối quan tâm: Theo dõi hoạt động người dùng, tài xế, quản lý dữ liệu
+- Mức độ ưu tiên: Major
+
+4. Bộ phận chăm sóc khách hàng
+- Vai trò: Giải quyết khuyến nại, hỗ trợ người dùng
+- Mối quan tâm: Truy cập thông tin dễ dàng, giao tiếp giữa các bộ phận thuận tiện
+- Mức độ ưu tiên: Major
+
+5. Đối tác cửa hàng
+- Vai trò: Sử dụng dịch vụ giao hàng cho sản phẩm của họ
+- Mối quan tâm: Kết nối đơn hàng nhanh chóng, dễ dàng theo dõi tình trạng giao hàng, chi phí và chính sách hợp lý
+- Mức độ ưu tiên: Minor

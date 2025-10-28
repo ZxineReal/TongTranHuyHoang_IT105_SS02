@@ -1,0 +1,27 @@
+Hệ thống Shopee:
+Người dùng:
+- Khách hàng
+- Nhà cung cấp
+- Nhân viên
+- Đơn vị vận chuyển
+Phần cứng:
+- Thiết bị người dùng
+- Máy chủ
+Phần mềm:
+- Ứng dụng Shopee
+- Ứng dụng thanh toán
+- Hệ thống khuyến mãi, gợi ý sản phẩm, tìm sản phẩm,...
+Hệ thống bên ngoài: 
+- Ngân hàng
+- Quảng cáo
+- Cơ quan thuế
+Quy trình nghiệp vụ:
+- Đăng ký tài khoản
+- Đăng ký bán hàng
+- Đặt hàng, thanh toán, giao nhận hàng
+- Xử lý khiếu nại, xử lý yêu cầu hoàn trả
+- Thống kê người dùng, doanh thu
+Luật lệ:
+- Luật thương mại Việt Nam
+- Chính sách nền tảng
+- Quy định về thuế, hóa đơn điện tử, bảo mật dữ liệu cá nhân

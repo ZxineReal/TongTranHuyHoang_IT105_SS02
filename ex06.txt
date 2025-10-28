@@ -1,0 +1,25 @@
+Hệ thống quản lý bệnh viện:
+
+1. Người dùng
+- Bao gồm bác sĩ, y tá, quản lý
+- Ảnh hưởng đến phân quyền, giao diện người dùng
+
+2. Phần cứng
+- Bao gồm máy tính, máy chủ, thiết bị y tế, thiết bị lưu trữ
+- Yêu cầu hiệu suất, khả năng xử lý linh hoạt và lưu trữ
+
+3. Phần mềm
+- Bao gồm hệ điều hành, cơ sở dữ liệu, phần mềm y tế, bảo mật
+- Hệ thống cần ổn định, dễ dàng mở rộng và tích hợp với các phần mềm khác
+
+4. Hệ thống bên ngoài
+- Bao gồm hệ thống thanh toán, bảo hiểm y tế, ngân hàng
+- Đảm bảo khả năng tích hợp, yêu cầu kết nối ổn định và tuân thủ dữ liệu chuẩn quốc gia
+
+5. Quy trình nghiệp vụ
+- Bao gồm quy trình khám bệnh, nhập viện, kê đơn, thanh toán, lưu trữ hồ sơ.
+- Hệ thống cần mô phỏng và tự động hóa đúng quy trình bệnh viện
+
+6. Luật lệ và tiêu chuẩn
+- Bao gồm quy định bệnh viện, quy định bảo mật trong y tế
+- Hệ thống cần tuân thu quy định bảo mật, sao lưu, phục hồi, lưu trữ theo yêu cầu pháp lý

@@ -1,0 +1,21 @@
+Hệ thống học trực tuyến:
+1. Giới thiệu
+- Giới thiệu tổng quan về hệ thống học trực tuyến
+- Trình bày mục đích, phạm vi hệ thống, đối tượng sử dụng hệ thống
+2. Mô tả tổng quát
+- Trình bày bối cảnh hệ thống, mô hình hoạt động
+- Liệt kê sơ lược các chức năng, chính sách hệ thống
+3. Yêu cầu chức năng:
+- Mô tả chi tiết chức năng như: đăng ký, đăng nhập, quản lý lớp học, học trực tuyến,...
+
+4. Yêu cầu phi chức năng: 
+- Nêu các yêu cầu phi chức năng như: hiệu suất, bảo mật, giao diện người dùng
+- Đảm bảo khả năng bảo trì hệ thống
+5. Ràng buộc hệ thống 
+- Trình bày cấu trúc dữ liệu
+- Giới hạn công nghệ sử dụng
+6. Mô hình hệ thống và giao diện người dùng
+- Mô tả giao diện , trình bày giao diện mẫu
+- Trình bày các sơ đồ use case, mô hình ER
+7. Phụ lục
+- Bao gồm các tài liệu tham khảo, từ viết tắt, thông tin bổ sung

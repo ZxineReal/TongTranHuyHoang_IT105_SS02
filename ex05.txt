@@ -1,0 +1,29 @@
+So sánh kỹ thuật thu thập yêu cầu:
+
+1. Phỏng vấn
+
+- Ưu điểm: Cho phép khai thác thông tin chi tiết, làm rõ và giải quyết vấn đề, linh hoạt thay đổi tình huống để làm rõ các yêu cầu chưa rõ ràng
+- Hạn chế: Mất nhiều thời gian, kết quả phỏng vấn có thể bị ảnh hưởng bởi người phỏng vấn và người được phỏng vấn
+- Khi nào nên dùng: Khi thu thập thông tin từ người có kinh nghiệm/chuyên môn cao, khi cần làm rõ vấn đề
+- Tình huống ví dụ: Hệ thống quản lý thư viện, phỏng vấn thủ thư để hiểu rõ hơn về yêu cầu bảo mật
+
+2. Quan sát
+
+- Ưu điểm: Hiểu rõ quy trình thực tế người dùng thực hiện, phát hiện các yêu cầu tiềm ẩn, hiểu rõ bối cảnh công việc
+- Hạn chế: Mất nhiều thời gian và chi phí, kết quả quan sát có thể bị ảnh hưởng bởi quan điểm cá nhân
+- Khi nào nên dùng: Khi cần tìm hiểu cách thức công việc diễn ra trong môi trường làm việc
+- Tình huống ví dụ: Quan sát quy trình làm việc của nhân viên kho hàng
+
+3. Khảo sát
+
+- Ưu điểm: Thu thập thông tin nhanh chóng, dễ dàng phân tích dữ liệu, tiết kiệm chi phí
+- Hạn chế: Khó thu thập thông tin bổ sung, thông tin thu thập được thường không chi tiết
+- Khi nào nên dùng: Khi cần thu thập thông tin từ một nhóm người dùng lớn, khi thông tin cần thu thập đơn giản và dễ định hình
+- Tình huống ví dụ: Làm khảo sát, thu thập ý kiến từ các nhân viên
+
+4. Phân tích tài liệu
+
+- Ưu điểm: Dễ dàng truy cập dữ liệu, giảm bớt công việc
+- Hạn chế: Tài liệu không đầy đủ, khó hiểu
+- Khi nào nên dùng: Khi cần xác minh lại các yêu cầu, hiểu rõ hơn về quy trình, tiêu chuẩn và tài liệu liên quan
+- Tình huống ví dụ: Phân tích hệ thống cũ để hiểu các yêu cầu cho hệ thống mới
